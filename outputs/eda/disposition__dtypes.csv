@@ -1,0 +1,3 @@
+column,dtype
+encounter_id,str
+encounter_disposition_label,str

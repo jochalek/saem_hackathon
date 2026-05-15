@@ -1,0 +1,63 @@
+variable,description
+encounter_id,Unique patient encounter identifier
+encounter_disposition_label,Simplified discharge disposition
+encounter_arrival_date,Date patient arrived at ED
+triage_heart_rate,Heart rate at triage (bpm)
+triage_respiratory_rate,Respiratory rate at triage (breaths/min)
+triage_snapshot.systolic_bp,Systolic blood pressure at triage (mmHg)
+triage_snapshot.diastolic_bp,Diastolic blood pressure at triage (mmHg)
+triage_snapshot.oxygen_saturation,Oxygen saturation at triage (%)
+triage_supplemental_oxygen,Supplemental oxygen given at triage
+triage_temperature_c,Body temperature at triage (°C)
+triage_gcs,Glasgow Coma Scale score at triage
+triage_age,Patient age at encounter (years)
+triage_sex_gender,Patient self-reported sex/gender
+triage_race_ethnicity,Patient self-reported race/ethnicity
+triage_chief_complaint,Primary presenting complaint at triage
+triage_brief_note,Free-text brief clinical note by triage clinician
+triage_esi,"Emergency Severity Index (1 = most acute, 5 = least acute)"
+triage_pain_scale,Self-reported pain score at triage
+triage_mode_of_arrival,How the patient arrived at the ED
+triage_mh_psych,History of psychiatric condition
+triage_mh_cardiac,History of cardiac condition
+triage_mh_pulm,History of pulmonary condition
+triage_mh_renal,History of renal condition
+triage_mh_substance_use,History of substance use disorder
+triage.labs,"Point-of-care iStat labs at triage. Fields: encounter_id, minute, fingerstick_glucose (mg/dL), ph, sodium (mEq/L), potassium (mEq/L), hemoglobin (g/dL), anion_gap"
+ed_course.vitals_timeseries,"Serial vital signs during ED course. Fields: minute, heart_rate, respiratory_rate, systolic_bp, diastolic_bp, oxygen_saturation, supplemental_oxygen, temperature_c, gcs, end_tidal_co2"
+ed_course.labs_timeseries,"Serial lab results during ED course. Fields: minute, cbc_wbc, bmp_sodium, bmp_potassium, bmp_bicarb, lft_ast, vbg_ph, hcg_positive, ua_abnormal, troponin, lactate, cpk, esr, crp, poct_glucose, serum_tox_positive, serum_osm"
+ed_course.interventions,"Timestamped interventions during ED course. Fields: minute, event_name"
+ed_course.reassessment_4h.encounter_id,Encounter ID repeated in 4-hour reassessment block (join verification)
+ed_course_reassessment_4h.heart_rate_4h,Heart rate at 4-hour reassessment (bpm)
+ed_course_reassessment_4h.respiratory_rate_4h,Respiratory rate at 4-hour reassessment (breaths/min)
+ed_course_reassessment_4h.systolic_bp_4h,Systolic BP at 4-hour reassessment (mmHg)
+ed_course_reassessment_4h.diastolic_bp_4h,Diastolic BP at 4-hour reassessment (mmHg)
+ed_course_reassessment_4h.oxygen_saturation_4h,Oxygen saturation at 4-hour reassessment (%)
+ed_course_reassessment_4h.supplemental_oxygen_4h,Supplemental oxygen in use at 4-hour reassessment
+ed_course_reassessment_4h.temperature_c_4h,Temperature at 4-hour reassessment (°C)
+ed_course_reassessment_4h.gcs_4h,Glasgow Coma Scale at 4-hour reassessment
+ed_course_reassessment_4h.end_tidal_co2_4h,End-tidal CO2 at 4-hour reassessment (mmHg)
+ed_course_reassessment_4h.delta_hr,Change in heart rate from triage to 4h (bpm)
+ed_course_reassessment_4h.delta_temp,Change in temperature from triage to 4h (°C)
+ed_course_reassessment_4h.delta_gcs,Change in GCS from triage to 4h
+ed_course_reassessment_4h.lactate_4h,Serum lactate at 4-hour reassessment (mmol/L)
+ed_course_reassessment_4h.cpk_4h,Creatine phosphokinase at 4-hour reassessment (U/L)
+ed_course_reassessment_4h.vbg_ph_4h,Venous blood gas pH at 4-hour reassessment
+ed_course_reassessment_4h.troponin_4h,Troponin at 4-hour reassessment (ng/mL)
+ed_course_reassessment_4h.ivf_count_0_4h,IV fluid administration within first 4 hours
+ed_course_reassessment_4h.benzodiazepine_count_0_4h,Benzodiazepine administered within first 4 hours
+ed_course_reassessment_4h.reversal_count_0_4h,Reversal agent administered within first 4 hours
+ed_course_reassessment_4h.intubated_0_4h,Patient intubated within first 4 hours
+ed_course_reassessment_4h.positive_pressure_0_4h,Non-invasive positive pressure ventilation within first 4 hours
+ed_course_reassessment_4h.cvc_0_4h,Central venous catheter placed within first 4 hours
+narrative_notes_structured_brief_hpi,"Brief structured HPI: 2-3 sentences summarizing onset, setting, and key symptoms"
+narrative_notes_structured_hpi,"Full structured HPI including associated symptoms, collateral history, triage vitals summary, and initial lab results"
+narrative_notes_structured_physical_exam_pertinent_positives,Semicolon-delimited pertinent positive physical exam findings
+narrative_notes_structured_mdm,"Medical decision-making note: clinical reasoning, working impression, severity tier, vulnerability factors, and treatment rationale"
+narrative_notes_structured_clinical_course,"Clinical course narrative: treatment response, interval trends, and final plan"
+narrative.notes_structured_ed_meds_procedures,Comma-delimited list of medications and procedures given during ED visit
+narrative_notes_structured_ekg_abnormal,EKG result was abnormal
+narrative_notes_structured_cxr_abnormal,Chest X-ray result was abnormal
+narrative_notes_structured_ct_head_abnormal,CT head result was abnormal
+narrative_notes_structured_ct_chest_abnormal,CT chest result was abnormal
+narrative_notes_structured_ct_abd_pelvis_abnormal,CT abdomen/pelvis result was abnormal

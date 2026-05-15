@@ -1,0 +1,8 @@
+event_name,count
+IVF,151
+Medication-Benzodiazepine,133
+Medication-Antipyretic,81
+Medication-Reversal,46
+Procedure-PositivePressure,25
+Procedure-Intubation,22
+Procedure-CVC,12

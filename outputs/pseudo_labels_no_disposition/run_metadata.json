@@ -1,0 +1,65 @@
+{
+  "input_workbook": "/home/justin/projects/saem_hackathon/data/raw/Hackathon_Data_Release_1_SHARE.xlsx",
+  "pipeline_variant": "no_disposition_safe_hpi",
+  "rapids_available": true,
+  "random_seed": 42,
+  "embedding_meta": {
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "device": "cuda",
+    "n_rows": 261,
+    "dim": 384
+  },
+  "nested_columns_expanded": [
+    "triage.labs"
+  ],
+  "text_columns_used": [
+    "triage_chief_complaint",
+    "triage_brief_note",
+    "narrative_notes_structured_brief_hpi",
+    "narrative_notes_structured_hpi"
+  ],
+  "excluded_four_hour_columns": [
+    "ed_course.interventions",
+    "ed_course.labs_timeseries",
+    "ed_course.reassessment_4h.encounter_id",
+    "ed_course.vitals_timeseries",
+    "ed_course_reassessment_4h.benzodiazepine_count_0_4h",
+    "ed_course_reassessment_4h.cpk_4h",
+    "ed_course_reassessment_4h.cvc_0_4h",
+    "ed_course_reassessment_4h.delta_gcs",
+    "ed_course_reassessment_4h.delta_hr",
+    "ed_course_reassessment_4h.delta_temp",
+    "ed_course_reassessment_4h.diastolic_bp_4h",
+    "ed_course_reassessment_4h.end_tidal_co2_4h",
+    "ed_course_reassessment_4h.gcs_4h",
+    "ed_course_reassessment_4h.heart_rate_4h",
+    "ed_course_reassessment_4h.intubated_0_4h",
+    "ed_course_reassessment_4h.ivf_count_0_4h",
+    "ed_course_reassessment_4h.lactate_4h",
+    "ed_course_reassessment_4h.oxygen_saturation_4h",
+    "ed_course_reassessment_4h.positive_pressure_0_4h",
+    "ed_course_reassessment_4h.respiratory_rate_4h",
+    "ed_course_reassessment_4h.reversal_count_0_4h",
+    "ed_course_reassessment_4h.supplemental_oxygen_4h",
+    "ed_course_reassessment_4h.systolic_bp_4h",
+    "ed_course_reassessment_4h.temperature_c_4h",
+    "ed_course_reassessment_4h.troponin_4h",
+    "ed_course_reassessment_4h.vbg_ph_4h",
+    "narrative.notes_structured_ed_meds_procedures",
+    "narrative_notes_structured_clinical_course",
+    "narrative_notes_structured_ct_abd_pelvis_abnormal",
+    "narrative_notes_structured_ct_chest_abnormal",
+    "narrative_notes_structured_ct_head_abnormal",
+    "narrative_notes_structured_cxr_abnormal",
+    "narrative_notes_structured_ekg_abnormal",
+    "narrative_notes_structured_mdm",
+    "narrative_notes_structured_physical_exam_pertinent_positives"
+  ],
+  "explicitly_dropped_leakage_columns": [],
+  "cluster_to_drug_mapping": {
+    "cluster_0": 1,
+    "cluster_1": 2,
+    "cluster_2": 3
+  },
+  "output_rows": 261
+}

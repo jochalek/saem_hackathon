@@ -1,0 +1,5 @@
+triage_sex_gender,hpi_gender,sex_matches_hpi,count
+Female,Female,True,114
+Female,Male,False,3
+Male,Male,True,138
+Non-binary,Non-binary,True,6

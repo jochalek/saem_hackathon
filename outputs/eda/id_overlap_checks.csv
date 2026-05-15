@@ -1,0 +1,4 @@
+sheet_a,sheet_b,id_col,unique_a,unique_b,intersection,coverage_of_a,coverage_of_b
+Triage_Data,Four_Hour_Data,encounter_id,261,261,261,1.0,1.0
+Triage_Data,Disposition,encounter_id,261,261,261,1.0,1.0
+Four_Hour_Data,Disposition,encounter_id,261,261,261,1.0,1.0

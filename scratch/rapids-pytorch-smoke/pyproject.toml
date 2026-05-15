@@ -1,0 +1,28 @@
+[project]
+name = "rapids-pytorch-smoke"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "torch",
+  "torchvision",
+  "torchaudio",
+  "cudf-cu12",
+  "cuml-cu12",
+  "numpy",
+  "pandas",
+  "scikit-learn",
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu129"
+url = "https://download.pytorch.org/whl/cu129"
+explicit = true
+
+[[tool.uv.index]]
+name = "nvidia"
+url = "https://pypi.nvidia.com"
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu129" }
+torchvision = { index = "pytorch-cu129" }
+torchaudio = { index = "pytorch-cu129" }

@@ -1,0 +1,3 @@
+column,nunique_non_null,missing_count,missing_pct,top_values
+encounter_id,261,0,0.0,E000143: 1 | E001622: 1 | E001562: 1 | E000424: 1 | E001532: 1
+encounter_disposition_label,3,0,0.0,Discharge: 171 | Floor: 52 | ICU: 38

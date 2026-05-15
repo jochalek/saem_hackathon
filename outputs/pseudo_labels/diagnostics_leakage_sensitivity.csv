@@ -1,0 +1,5 @@
+check,value
+stage1_label_flip_rate_with_clinical_course,0.0
+stage1_mean_abs_prob_shift_with_clinical_course,5.188525453812591e-07
+stage2_flip_rate_on_baseline_festival_subset,0.0
+stage2_ari_on_baseline_festival_subset,1.0

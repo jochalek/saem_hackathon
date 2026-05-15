@@ -1,0 +1,78 @@
+{
+  "raw_xlsx_path": "/home/justin/projects/saem_hackathon/data/raw/Hackathon_Data_Release_1_SHARE.xlsx",
+  "pseudo_path": "/home/justin/projects/saem_hackathon/outputs/pseudo_labels/drug_target_pseudo_labels.csv",
+  "output_path": "/home/justin/projects/saem_hackathon/outputs/pseudo_labels/pseudolabel_brief_hpi_examples.md",
+  "metadata_output_path": "/home/justin/projects/saem_hackathon/outputs/pseudo_labels/pseudolabel_brief_hpi_examples_metadata.json",
+  "per_category": 3,
+  "sampling": "top",
+  "seed": 42,
+  "categories": [
+    "Drug_1",
+    "Drug_2",
+    "Drug_3"
+  ],
+  "n_rows_joined": 261,
+  "gpu": {
+    "torch_cuda_available": true,
+    "cupy_available": true,
+    "gpu_path_used": false,
+    "note": "This script is IO/reporting only; GPU acceleration not required."
+  },
+  "category_disposition_counts": [
+    {
+      "drug_target_pseudo": "Drug_1",
+      "encounter_disposition_label": "Discharge",
+      "count": 91
+    },
+    {
+      "drug_target_pseudo": "Drug_1",
+      "encounter_disposition_label": "Floor",
+      "count": 7
+    },
+    {
+      "drug_target_pseudo": "Drug_2",
+      "encounter_disposition_label": "Discharge",
+      "count": 8
+    },
+    {
+      "drug_target_pseudo": "Drug_2",
+      "encounter_disposition_label": "Floor",
+      "count": 40
+    },
+    {
+      "drug_target_pseudo": "Drug_2",
+      "encounter_disposition_label": "ICU",
+      "count": 6
+    },
+    {
+      "drug_target_pseudo": "Drug_3",
+      "encounter_disposition_label": "Discharge",
+      "count": 1
+    },
+    {
+      "drug_target_pseudo": "Drug_3",
+      "encounter_disposition_label": "Floor",
+      "count": 1
+    },
+    {
+      "drug_target_pseudo": "Drug_3",
+      "encounter_disposition_label": "ICU",
+      "count": 29
+    },
+    {
+      "drug_target_pseudo": "No_Festival",
+      "encounter_disposition_label": "Discharge",
+      "count": 71
+    },
+    {
+      "drug_target_pseudo": "No_Festival",
+      "encounter_disposition_label": "Floor",
+      "count": 4
+    },
+    {
+      "drug_target_pseudo": "No_Festival",
+      "encounter_disposition_label": "ICU",
+      "count": 3
+    }
+  ]
+}

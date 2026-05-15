@@ -1,0 +1,14 @@
+#+title: SAEM Hackathon
+* Objectives
+1. Categorize patients at triage by what drug they most likely took
+2. Predice disposition ("Dischage", "Floor", "ICU") based on the first 4-hours of ED visit. ONLY predict for patients categorized as having taken a novel party drug
+3. Make an app (or paper printout) to help triage patients
+* Approach
+- "example-projects" directory contains an example project, we will take a similar apporach. Use python scripts (may convert to ipynb later).
+- "scratch/rapids-pytorch-smoke" contains a smoke test for python package setup, follow these dependancies for this project.
+* Guide
+https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/
+* Rules
+- follow [[file:conventions.md][conventions.md]] for all script-writing standards.
+- use git to make commits for all code changes.
+- use mise to manage python and uv environment and python script running.

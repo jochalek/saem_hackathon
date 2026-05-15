@@ -1,0 +1,75 @@
+col_1,col_2,col_3,table_index,row_index
+Variable Name,Description,Values / Range,1,1
+ENCOUNTER IDENTIFIERS & DISPOSITION,ENCOUNTER IDENTIFIERS & DISPOSITION,ENCOUNTER IDENTIFIERS & DISPOSITION,1,2
+encounter_id,Unique patient encounter identifier,E###### format,1,3
+encounter_disposition_label,Simplified discharge disposition,"Obs/Discharge, Floor, ICU",1,4
+encounter_arrival_date,Date patient arrived at ED,2025-05-18 to 2025-05-22,1,5
+TRIAGE VITAL SIGNS,TRIAGE VITAL SIGNS,TRIAGE VITAL SIGNS,1,6
+triage_heart_rate,Heart rate at triage (bpm),Min: 59.7 | Max: 173.9,1,7
+triage_respiratory_rate,Respiratory rate at triage (breaths/min),Min: 8.0 | Max: 45.6,1,8
+triage_snapshot.systolic_bp,Systolic blood pressure at triage (mmHg),Min: 71.8 | Max: 160.6,1,9
+triage_snapshot.diastolic_bp,Diastolic blood pressure at triage (mmHg),Min: 49.9 | Max: 96.9,1,10
+triage_snapshot.oxygen_saturation,Oxygen saturation at triage (%),Min: 88.9 | Max: 99.9,1,11
+triage_supplemental_oxygen,Supplemental oxygen given at triage,"0 = No, 1 = Yes",1,12
+triage_temperature_c,Body temperature at triage (°C),Min: 36.3 | Max: 39.4,1,13
+triage_gcs,Glasgow Coma Scale score at triage,Min: 3 | Max: 15,1,14
+TRIAGE DEMOGRAPHICS,TRIAGE DEMOGRAPHICS,TRIAGE DEMOGRAPHICS,1,15
+triage_age,Patient age at encounter (years),Min: 14 | Max: 80,1,16
+triage_sex_gender,Patient self-reported sex/gender,"Male, Female, Non-binary",1,17
+triage_race_ethnicity,Patient self-reported race/ethnicity,"Hispanic/Latino, Black, White, Other/Multiracial, Asian, Native American",1,18
+TRIAGE CLINICAL ASSESSMENT,TRIAGE CLINICAL ASSESSMENT,TRIAGE CLINICAL ASSESSMENT,1,19
+triage_chief_complaint,Primary presenting complaint at triage,"Nausea/vomiting, Palpitations, Altered mental status, Agitation, Chest pain, Headache, Anxiety/panic, General weakness, Shortness of breath, Syncope",1,20
+triage_brief_note,Free-text brief clinical note by triage clinician,,1,21
+triage_esi,"Emergency Severity Index (1 = most acute, 5 = least acute)",Min: 1 | Max: 5,1,22
+triage_pain_scale,Self-reported pain score at triage,0 (none) to 10 (worst),1,23
+triage_mode_of_arrival,How the patient arrived at the ED,"Walk-in, EMS, Police, Festival Medical Tent Transfer",1,24
+"PAST MEDICAL HISTORY FLAGS (0 = No, 1 = Yes)","PAST MEDICAL HISTORY FLAGS (0 = No, 1 = Yes)","PAST MEDICAL HISTORY FLAGS (0 = No, 1 = Yes)",1,25
+triage_mh_psych,History of psychiatric condition,"0 = No, 1 = Yes",1,26
+triage_mh_cardiac,History of cardiac condition,"0 = No, 1 = Yes",1,27
+triage_mh_pulm,History of pulmonary condition,"0 = No, 1 = Yes",1,28
+triage_mh_renal,History of renal condition,"0 = No, 1 = Yes",1,29
+triage_mh_substance_use,History of substance use disorder,"0 = No, 1 = Yes",1,30
+TRIAGE LABORATORY VALUES,TRIAGE LABORATORY VALUES,TRIAGE LABORATORY VALUES,1,31
+triage.labs,"Point-of-care iStat labs at triage. Fields: encounter_id, minute, fingerstick_glucose (mg/dL), ph, sodium (mEq/L), potassium (mEq/L), hemoglobin (g/dL), anion_gap",,1,32
+ED COURSE — TIMESERIES DATA,ED COURSE — TIMESERIES DATA,ED COURSE — TIMESERIES DATA,1,33
+ed_course.vitals_timeseries,"Serial vital signs during ED course. Fields: minute, heart_rate, respiratory_rate, systolic_bp, diastolic_bp, oxygen_saturation, supplemental_oxygen, temperature_c, gcs, end_tidal_co2",Multiple time points per encounter,1,34
+ed_course.labs_timeseries,"Serial lab results during ED course. Fields: minute, cbc_wbc, bmp_sodium, bmp_potassium, bmp_bicarb, lft_ast, vbg_ph, hcg_positive, ua_abnormal, troponin, lactate, cpk, esr, crp, poct_glucose, serum_tox_positive, serum_osm",Multiple time points per encounter,1,35
+ed_course.interventions,"Timestamped interventions during ED course. Fields: minute, event_name",Multiple time points per encounter,1,36
+4-HOUR REASSESSMENT — VITAL SIGNS & LABS,4-HOUR REASSESSMENT — VITAL SIGNS & LABS,4-HOUR REASSESSMENT — VITAL SIGNS & LABS,1,37
+ed_course.reassessment_4h.encounter_id,Encounter ID repeated in 4-hour reassessment block (join verification),E###### format,1,38
+ed_course_reassessment_4h.heart_rate_4h,Heart rate at 4-hour reassessment (bpm),Min: 49.5 | Max: 168.3,1,39
+ed_course_reassessment_4h.respiratory_rate_4h,Respiratory rate at 4-hour reassessment (breaths/min),Min: 7.0 | Max: 38.1,1,40
+ed_course_reassessment_4h.systolic_bp_4h,Systolic BP at 4-hour reassessment (mmHg),Min: 89.2 | Max: 149.5,1,41
+ed_course_reassessment_4h.diastolic_bp_4h,Diastolic BP at 4-hour reassessment (mmHg),Min: 58.0 | Max: 96.6,1,42
+ed_course_reassessment_4h.oxygen_saturation_4h,Oxygen saturation at 4-hour reassessment (%),Min: 88.8 | Max: 100.0,1,43
+ed_course_reassessment_4h.supplemental_oxygen_4h,Supplemental oxygen in use at 4-hour reassessment,"0 = No, 1 = Yes",1,44
+ed_course_reassessment_4h.temperature_c_4h,Temperature at 4-hour reassessment (°C),Min: 36.1 | Max: 38.7,1,45
+ed_course_reassessment_4h.gcs_4h,Glasgow Coma Scale at 4-hour reassessment,Min: 3 | Max: 15,1,46
+ed_course_reassessment_4h.end_tidal_co2_4h,End-tidal CO2 at 4-hour reassessment (mmHg),Min: 27.0 | Max: 51.5,1,47
+ed_course_reassessment_4h.delta_hr,Change in heart rate from triage to 4h (bpm),Min: -84.9 | Max: 56.4,1,48
+ed_course_reassessment_4h.delta_temp,Change in temperature from triage to 4h (°C),Min: -1.47 | Max: 0.68,1,49
+ed_course_reassessment_4h.delta_gcs,Change in GCS from triage to 4h,Min: -5 | Max: 15,1,50
+ed_course_reassessment_4h.lactate_4h,Serum lactate at 4-hour reassessment (mmol/L),Min: 0.72 | Max: 5.90,1,51
+ed_course_reassessment_4h.cpk_4h,Creatine phosphokinase at 4-hour reassessment (U/L),Min: 20.0 | Max: 1251.6,1,52
+ed_course_reassessment_4h.vbg_ph_4h,Venous blood gas pH at 4-hour reassessment,Min: 7.24 | Max: 7.46,1,53
+ed_course_reassessment_4h.troponin_4h,Troponin at 4-hour reassessment (ng/mL),Min: 0.00 | Max: 0.20,1,54
+"4-HOUR REASSESSMENT — INTERVENTION FLAGS (0 = No, 1 = Yes; window: arrival to 4h)","4-HOUR REASSESSMENT — INTERVENTION FLAGS (0 = No, 1 = Yes; window: arrival to 4h)","4-HOUR REASSESSMENT — INTERVENTION FLAGS (0 = No, 1 = Yes; window: arrival to 4h)",1,55
+ed_course_reassessment_4h.ivf_count_0_4h,IV fluid administration within first 4 hours,"0 = No, 1 = Yes",1,56
+ed_course_reassessment_4h.benzodiazepine_count_0_4h,Benzodiazepine administered within first 4 hours,"0 = No, 1 = Yes",1,57
+ed_course_reassessment_4h.reversal_count_0_4h,Reversal agent administered within first 4 hours,"0 = No, 1 = Yes",1,58
+ed_course_reassessment_4h.intubated_0_4h,Patient intubated within first 4 hours,"0 = No, 1 = Yes",1,59
+ed_course_reassessment_4h.positive_pressure_0_4h,Non-invasive positive pressure ventilation within first 4 hours,"0 = No, 1 = Yes",1,60
+ed_course_reassessment_4h.cvc_0_4h,Central venous catheter placed within first 4 hours,"0 = No, 1 = Yes",1,61
+NARRATIVE NOTES (STRUCTURED FREE TEXT),NARRATIVE NOTES (STRUCTURED FREE TEXT),NARRATIVE NOTES (STRUCTURED FREE TEXT),1,62
+narrative_notes_structured_brief_hpi,"Brief structured HPI: 2-3 sentences summarizing onset, setting, and key symptoms",,1,63
+narrative_notes_structured_hpi,"Full structured HPI including associated symptoms, collateral history, triage vitals summary, and initial lab results",,1,64
+narrative_notes_structured_physical_exam_pertinent_positives,Semicolon-delimited pertinent positive physical exam findings,,1,65
+narrative_notes_structured_mdm,"Medical decision-making note: clinical reasoning, working impression, severity tier, vulnerability factors, and treatment rationale",,1,66
+narrative_notes_structured_clinical_course,"Clinical course narrative: treatment response, interval trends, and final plan",,1,67
+narrative.notes_structured_ed_meds_procedures,Comma-delimited list of medications and procedures given during ED visit,,1,68
+"DIAGNOSTIC IMAGING FLAGS (0 = Normal/Not Done, 1 = Abnormal)","DIAGNOSTIC IMAGING FLAGS (0 = Normal/Not Done, 1 = Abnormal)","DIAGNOSTIC IMAGING FLAGS (0 = Normal/Not Done, 1 = Abnormal)",1,69
+narrative_notes_structured_ekg_abnormal,EKG result was abnormal,"0 = Normal/not done, 1 = Abnormal",1,70
+narrative_notes_structured_cxr_abnormal,Chest X-ray result was abnormal,"0 = Normal/not done, 1 = Abnormal",1,71
+narrative_notes_structured_ct_head_abnormal,CT head result was abnormal,"0 = Normal/not done, 1 = Abnormal",1,72
+narrative_notes_structured_ct_chest_abnormal,CT chest result was abnormal,"0 = Normal/not done, 1 = Abnormal",1,73
+narrative_notes_structured_ct_abd_pelvis_abnormal,CT abdomen/pelvis result was abnormal,"0 = Normal/not done, 1 = Abnormal",1,74

@@ -1,0 +1,17 @@
+column,pattern,count
+triage_chief_complaint,mentions_discharge,0
+triage_chief_complaint,mentions_floor,0
+triage_chief_complaint,mentions_icu,0
+triage_chief_complaint,mentions_admit,0
+triage_brief_note,mentions_discharge,0
+triage_brief_note,mentions_floor,1
+triage_brief_note,mentions_icu,0
+triage_brief_note,mentions_admit,0
+narrative_notes_structured_brief_hpi,mentions_discharge,0
+narrative_notes_structured_brief_hpi,mentions_floor,0
+narrative_notes_structured_brief_hpi,mentions_icu,0
+narrative_notes_structured_brief_hpi,mentions_admit,0
+narrative_notes_structured_hpi,mentions_discharge,1
+narrative_notes_structured_hpi,mentions_floor,1
+narrative_notes_structured_hpi,mentions_icu,0
+narrative_notes_structured_hpi,mentions_admit,0

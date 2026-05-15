@@ -1,0 +1,10 @@
+metric,value
+n_total,261.0
+n_festival_like,183.0
+n_no_festival,78.0
+stage1_threshold,0.37000000000000005
+stage1_anchor_balanced_accuracy,0.9919354838709677
+stage2_pairwise_ari_mean,0.8009697943424854
+stage2_pairwise_ari_min,0.583057181338963
+stage2_pairwise_ari_max,0.9609542185581477
+stage2_consensus_conf_mean,0.9650273224043714

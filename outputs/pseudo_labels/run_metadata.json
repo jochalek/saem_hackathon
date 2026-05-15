@@ -1,0 +1,29 @@
+{
+  "rapids_available": true,
+  "embedding_meta": {
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "device": "cuda",
+    "n_rows": 261,
+    "dim": 384
+  },
+  "nested_columns_expanded": [
+    "triage.labs",
+    "ed_course.vitals_timeseries",
+    "ed_course.labs_timeseries",
+    "ed_course.interventions"
+  ],
+  "text_columns_used": [
+    "triage_chief_complaint",
+    "triage_brief_note",
+    "narrative_notes_structured_brief_hpi",
+    "narrative_notes_structured_hpi",
+    "narrative_notes_structured_physical_exam_pertinent_positives",
+    "narrative_notes_structured_mdm"
+  ],
+  "cluster_to_drug_mapping": {
+    "cluster_0": 1,
+    "cluster_1": 2,
+    "cluster_2": 3
+  },
+  "output_rows": 261
+}

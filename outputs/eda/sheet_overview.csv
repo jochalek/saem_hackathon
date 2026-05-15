@@ -1,0 +1,4 @@
+sheet,n_rows,n_cols,numeric_cols,categorical_cols,id_candidates
+Triage_Data,261,24,16,8,"encounter_id, encounter_arrival_date"
+Four_Hour_Data,261,38,27,11,"encounter_id, ed_course.reassessment_4h.encounter_id"
+Disposition,261,2,0,2,"encounter_id, encounter_disposition_label"
