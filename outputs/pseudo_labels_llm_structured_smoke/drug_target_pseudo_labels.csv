@@ -1,0 +1,4 @@
+encounter_id,drug_target_pseudo,drug_target_confidence,cluster_index
+E000143,Drug_2,1.0,1
+E001622,Drug_1,1.0,0
+E001562,Drug_3,1.0,2

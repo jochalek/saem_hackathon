@@ -1,0 +1,262 @@
+encounter_id,symptom_triples_json
+E000143,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001622,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001562,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000424,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001532,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000894,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E002007,"[{""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000130,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000265,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000924,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""unknown""}]"
+E000974,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001372,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""days""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""days""}]"
+E000485,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001311,[]
+E000393,[]
+E001578,"[{""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001464,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001652,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000915,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001666,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000218,[]
+E000617,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000701,[]
+E000910,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000154,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001219,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001014,[]
+E000697,[]
+E001706,[]
+E001504,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000608,[]
+E000133,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001885,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000818,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001640,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E002190,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000457,"[{""symptom"": ""chest_pain"", ""severity"": ""mild"", ""onset_timing"": ""days""}]"
+E002070,[]
+E000749,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001401,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000841,[]
+E001261,"[{""symptom"": ""agitation"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""mild"", ""onset_timing"": ""hours""}]"
+E000444,[]
+E000859,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001012,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000803,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""days""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""days""}]"
+E002114,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E002058,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001427,[]
+E000557,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000311,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001363,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001841,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000901,"[{""symptom"": ""chest_pain"", ""severity"": ""mild"", ""onset_timing"": ""unknown""}]"
+E001167,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001648,[]
+E000353,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000166,"[{""symptom"": ""tachycardia"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001006,"[{""symptom"": ""tachycardia"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001238,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001864,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000435,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001418,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001688,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""unknown""}]"
+E000995,[]
+E001239,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001927,[]
+E000120,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000335,[]
+E001188,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001813,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""days""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""days""}]"
+E000812,"[{""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001811,[]
+E001159,"[{""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000087,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001160,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001729,[]
+E001380,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000507,[]
+E000660,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000798,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001357,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E002149,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001732,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000099,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001106,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000885,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000400,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""sudden""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""sudden""}, {""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""sudden""}]"
+E000882,[]
+E000934,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""hypertension"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000629,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000185,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000275,[]
+E000363,[]
+E001953,[]
+E001918,[]
+E001007,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000996,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001370,[]
+E000286,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000711,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E002083,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002152,[]
+E001029,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001957,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001627,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000047,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001191,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001412,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001589,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000826,[]
+E001352,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001371,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001113,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002173,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001910,[]
+E000663,"[{""symptom"": ""hyperthermia"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000600,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000048,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001002,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001232,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000673,[]
+E000782,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000946,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""days""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""days""}]"
+E001413,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000065,[]
+E001179,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002141,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001030,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002165,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000814,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002161,"[{""symptom"": ""agitation"", ""severity"": ""mild"", ""onset_timing"": ""unknown""}]"
+E000490,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001676,[]
+E001143,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001549,"[{""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000227,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000632,"[{""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000825,"[{""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001392,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""sudden""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""sudden""}]"
+E001053,[]
+E000722,"[{""symptom"": ""seizure"", ""severity"": ""mild"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""mild"", ""onset_timing"": ""unknown""}]"
+E001331,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000284,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E002180,"[{""symptom"": ""hypertension"", ""severity"": ""unknown"", ""onset_timing"": ""sudden""}]"
+E002013,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001889,[]
+E001539,[]
+E001761,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000173,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001502,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000174,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000969,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001506,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001431,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000676,[]
+E000941,[]
+E002040,[]
+E001472,"[{""symptom"": ""hypertension"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001865,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002061,[]
+E000022,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000880,"[{""symptom"": ""hallucination"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E002101,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001305,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001072,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E002047,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""days""}]"
+E001245,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000383,[]
+E002159,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E002188,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001266,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000370,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000116,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001707,[]
+E001274,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000259,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001703,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001165,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000644,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000849,"[{""symptom"": ""agitation"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""mild"", ""onset_timing"": ""hours""}]"
+E000336,[]
+E001597,"[{""symptom"": ""tachycardia"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000292,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001711,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000737,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000358,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001220,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001170,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""hyperthermia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001944,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000035,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""hypertension"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000654,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000731,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000064,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001993,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000153,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001419,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001115,"[{""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001947,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000345,[]
+E000225,[]
+E000642,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001316,[]
+E001178,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000847,[]
+E001206,"[{""symptom"": ""tachycardia"", ""severity"": ""severe"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""unknown""}]"
+E002148,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001286,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000771,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E002043,"[{""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000807,[]
+E001976,"[{""symptom"": ""tachycardia"", ""severity"": ""severe"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001138,[]
+E000074,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000547,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001672,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E002186,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001330,[]
+E001213,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000949,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000786,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000267,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001282,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000780,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000755,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000129,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E001573,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001785,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000144,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000296,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000121,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E000512,"[{""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000554,"[{""symptom"": ""tachycardia"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""mild"", ""onset_timing"": ""hours""}]"
+E001381,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000511,[]
+E000677,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000408,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000357,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001568,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000720,"[{""symptom"": ""agitation"", ""severity"": ""severe"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""severe"", ""onset_timing"": ""unknown""}, {""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""unknown""}]"
+E000178,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""agitation"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""unknown""}]"
+E000439,[]
+E002076,[]
+E001055,"[{""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000653,"[{""symptom"": ""chest_pain"", ""severity"": ""severe"", ""onset_timing"": ""hours""}]"
+E001980,"[{""symptom"": ""tachycardia"", ""severity"": ""mild"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""mild"", ""onset_timing"": ""hours""}]"
+E000578,"[{""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001949,[]
+E001313,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000262,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000700,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000199,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E000870,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"
+E001712,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""unknown""}]"
+E000119,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000005,"[{""symptom"": ""chest_pain"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E000061,[]
+E000437,"[{""symptom"": ""tachycardia"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001684,"[{""symptom"": ""agitation"", ""severity"": ""moderate"", ""onset_timing"": ""hours""}]"
+E001010,[]
+E001094,"[{""symptom"": ""tachycardia"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""seizure"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}, {""symptom"": ""chest_pain"", ""severity"": ""unknown"", ""onset_timing"": ""hours""}]"

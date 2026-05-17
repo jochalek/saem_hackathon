@@ -1,0 +1,84 @@
+{
+  "raw_xlsx_path": "/home/justin/projects/saem_hackathon/data/raw/Hackathon_Data_Release_1_SHARE.xlsx",
+  "pseudo_path": "outputs/pseudo_labels_llm_structured/drug_target_pseudo_labels.csv",
+  "output_path": "outputs/pseudo_labels_llm_structured/pseudolabel_brief_hpi_examples.md",
+  "metadata_output_path": "outputs/pseudo_labels_llm_structured/pseudolabel_brief_hpi_examples_metadata.json",
+  "per_category": 3,
+  "sampling": "top",
+  "seed": 42,
+  "categories": [
+    "Drug_1",
+    "Drug_2",
+    "Drug_3",
+    "Drug_4"
+  ],
+  "n_rows_joined": 261,
+  "gpu": {
+    "torch_cuda_available": true,
+    "cupy_available": true,
+    "gpu_path_used": false,
+    "note": "This script is IO/reporting only; GPU acceleration not required."
+  },
+  "category_disposition_counts": [
+    {
+      "drug_target_pseudo": "Drug_1",
+      "encounter_disposition_label": "Discharge",
+      "count": 61
+    },
+    {
+      "drug_target_pseudo": "Drug_1",
+      "encounter_disposition_label": "Floor",
+      "count": 16
+    },
+    {
+      "drug_target_pseudo": "Drug_1",
+      "encounter_disposition_label": "ICU",
+      "count": 7
+    },
+    {
+      "drug_target_pseudo": "Drug_2",
+      "encounter_disposition_label": "Discharge",
+      "count": 46
+    },
+    {
+      "drug_target_pseudo": "Drug_2",
+      "encounter_disposition_label": "Floor",
+      "count": 2
+    },
+    {
+      "drug_target_pseudo": "Drug_2",
+      "encounter_disposition_label": "ICU",
+      "count": 3
+    },
+    {
+      "drug_target_pseudo": "Drug_3",
+      "encounter_disposition_label": "Discharge",
+      "count": 42
+    },
+    {
+      "drug_target_pseudo": "Drug_3",
+      "encounter_disposition_label": "Floor",
+      "count": 23
+    },
+    {
+      "drug_target_pseudo": "Drug_3",
+      "encounter_disposition_label": "ICU",
+      "count": 22
+    },
+    {
+      "drug_target_pseudo": "Drug_4",
+      "encounter_disposition_label": "Discharge",
+      "count": 22
+    },
+    {
+      "drug_target_pseudo": "Drug_4",
+      "encounter_disposition_label": "Floor",
+      "count": 11
+    },
+    {
+      "drug_target_pseudo": "Drug_4",
+      "encounter_disposition_label": "ICU",
+      "count": 6
+    }
+  ]
+}

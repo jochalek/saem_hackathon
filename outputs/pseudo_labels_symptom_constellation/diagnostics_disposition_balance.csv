@@ -1,0 +1,10 @@
+drug_target_pseudo,encounter_disposition_label,count,row_pct
+Drug_2,Discharge,11,0.4074074074074074
+Drug_2,Floor,6,0.2222222222222222
+Drug_2,ICU,10,0.37037037037037035
+Drug_3,Discharge,27,0.6136363636363636
+Drug_3,Floor,15,0.3409090909090909
+Drug_3,ICU,2,0.045454545454545456
+No_Party_Drug,Discharge,133,0.7
+No_Party_Drug,Floor,31,0.1631578947368421
+No_Party_Drug,ICU,26,0.1368421052631579

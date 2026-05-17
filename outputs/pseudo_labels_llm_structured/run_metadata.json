@@ -1,0 +1,19 @@
+{
+  "input_workbook": "/home/justin/projects/saem_hackathon/data/raw/Hackathon_Data_Release_1_SHARE.xlsx",
+  "pipeline_variant": "llm_structured_extraction",
+  "openai_model": "gpt-5.5",
+  "openai_api_key_present": true,
+  "text_columns_used": [
+    "triage_chief_complaint",
+    "triage_brief_note",
+    "narrative_notes_structured_brief_hpi",
+    "narrative_notes_structured_hpi",
+    "narrative_notes_structured_physical_exam_pertinent_positives"
+  ],
+  "n_rows": 261,
+  "max_rows_requested": null,
+  "n_features_after_featurization": 285,
+  "n_clusters_requested": 4,
+  "n_clusters_used": 4,
+  "random_seed": 42
+}

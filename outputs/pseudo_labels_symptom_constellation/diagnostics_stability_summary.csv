@@ -1,0 +1,10 @@
+metric,value
+n_total,261.0
+n_no_party_drug,190.0
+n_drug_1,0.0
+n_drug_2,27.0
+n_drug_3,44.0
+mean_confidence,0.28452987944942776
+mean_symptom_evidence,1.3218390804597702
+mean_prototype_similarity,0.2931707799434662
+n_residual_clustered,51.0

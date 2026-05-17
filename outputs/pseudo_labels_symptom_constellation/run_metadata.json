@@ -1,0 +1,7 @@
+{
+  "model": "emilyalsentzer/Bio_ClinicalBERT",
+  "device": "cuda",
+  "hf_token_present": true,
+  "random_seed": 42,
+  "n_rows": 261
+}
